@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @DangChauBaoVan<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning React Native and Nodejs<br>- 💞️ I’m looking to collaborate on React Project
+- 👋 Hi, I’m @DangChauBaoVan<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning React Native and Nodejs<br>- 💞️ I’m looking to collaborate on React Project
 
 
 ## 🌐 Socials:
